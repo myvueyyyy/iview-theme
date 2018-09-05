@@ -1,6 +1,6 @@
 {
   "name": "yy-iview-theme",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "Theme generator cli tool for iview",
   "main": "index.js",
   "bin": {
